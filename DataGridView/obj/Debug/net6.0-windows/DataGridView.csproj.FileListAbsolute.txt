@@ -1,0 +1,17 @@
+F:\Dekstop Development\DataGridView\DataGridView\bin\Debug\net6.0-windows\DataGridView.exe
+F:\Dekstop Development\DataGridView\DataGridView\bin\Debug\net6.0-windows\DataGridView.deps.json
+F:\Dekstop Development\DataGridView\DataGridView\bin\Debug\net6.0-windows\DataGridView.runtimeconfig.json
+F:\Dekstop Development\DataGridView\DataGridView\bin\Debug\net6.0-windows\DataGridView.dll
+F:\Dekstop Development\DataGridView\DataGridView\bin\Debug\net6.0-windows\DataGridView.pdb
+F:\Dekstop Development\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.csproj.AssemblyReference.cache
+F:\Dekstop Development\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.Form1.resources
+F:\Dekstop Development\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.csproj.GenerateResource.cache
+F:\Dekstop Development\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dekstop Development\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.AssemblyInfoInputs.cache
+F:\Dekstop Development\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.AssemblyInfo.cs
+F:\Dekstop Development\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.csproj.CoreCompileInputs.cache
+F:\Dekstop Development\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.dll
+F:\Dekstop Development\DataGridView\DataGridView\obj\Debug\net6.0-windows\refint\DataGridView.dll
+F:\Dekstop Development\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.pdb
+F:\Dekstop Development\DataGridView\DataGridView\obj\Debug\net6.0-windows\DataGridView.genruntimeconfig.cache
+F:\Dekstop Development\DataGridView\DataGridView\obj\Debug\net6.0-windows\ref\DataGridView.dll
